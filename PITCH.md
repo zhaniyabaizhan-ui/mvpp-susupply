@@ -1,4 +1,4 @@
-# SuCount - Pitch для Colosseum Hackathon
+# SuCount
 
 ## 🎯 Elevator Pitch (30 сек)
 
