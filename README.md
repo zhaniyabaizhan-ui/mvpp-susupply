@@ -13,8 +13,7 @@ SuCount is a decentralized water quota management system built on Solana that to
 
 
 
-- **Zhaniya Baizhan** - [GitHub](https://github.com/mfhonley) | [Twitter](https://x.com/sadbutbot?s=21) | [LinkedIn](https://www.linkedin.com/in/zhaniya-b-745789365)
-
+- **Zhaniya Baizhan** 
 
 ---
 
